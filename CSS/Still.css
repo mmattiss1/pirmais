@@ -1,0 +1,15 @@
+.teksts {
+  display:flex;
+  padding: 16px 32px 8px;
+  margin: 8xp 12px;
+  font-family: 'Courire New', Courier, monspace;
+  background-color; #00ffff;
+  font-size; 32px;
+}
+.areJaKaste{
+  border-style:dotted
+    border-color:blue;
+  background-color:lightblue;
+  padding: 10px 10px 10px 10px;
+  marging: 50px 20px 50px 20px;
+}
